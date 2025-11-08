@@ -1,0 +1,17 @@
+{
+  "name": "js-mfire",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "mfire": "./bin/mfire.js"
+  },
+  "scripts": {
+    "start": "node ./bin/mfire.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "lru-cache": "^10.0.0",
+    "puppeteer": "^24.15.0"
+  }
+}
