@@ -1,6 +1,6 @@
 # js-mfire
 
-A small, focused JavaScript port of `go-mfire` that demonstrates how to parse MangaFire (https://mangafire.to) and run searches which require the site's `vrf` token.
+A small, focused JavaScript port of `go-mfire` that demonstrates how to parse [MangaFire](https://mangafire.to) and run searches which require the site's `vrf` token.
 
 <p align="center">
 	<img src="https://github.com/galpt/js-mfire/blob/main/screenshot/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
